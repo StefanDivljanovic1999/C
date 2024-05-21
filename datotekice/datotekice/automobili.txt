@@ -1,0 +1,16 @@
+Volkswagen
+Golf 4
+1598
+2002
+BMW
+116i
+1598
+2002
+Audi
+A3
+1968
+2007
+Mercedes
+S klasa
+5496
+2021

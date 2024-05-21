@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Neka sranja", "Neka sranja\Neka sranja.vcxproj", "{2A92014C-2770-4011-AE0B-C57700C036BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Debug|x64.ActiveCfg = Debug|x64
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Debug|x64.Build.0 = Debug|x64
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Debug|x86.Build.0 = Debug|Win32
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Release|x64.ActiveCfg = Release|x64
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Release|x64.Build.0 = Release|x64
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Release|x86.ActiveCfg = Release|Win32
+		{2A92014C-2770-4011-AE0B-C57700C036BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9201FA78-63A3-4013-837A-8F0B2EA3AF79}
+	EndGlobalSection
+EndGlobal

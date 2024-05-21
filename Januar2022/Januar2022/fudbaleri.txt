@@ -1,0 +1,12 @@
+Kylian Mbappe
+10,12
+Lionel Messi
+10,10
+Aleksandar Mitrovic
+7,7
+Strahinja Pavlovic
+4,12
+Vanja Milinkovic Savic
+1,12
+Enzo Fernandez
+8,10

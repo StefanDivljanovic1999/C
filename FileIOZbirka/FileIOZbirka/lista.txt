@@ -1,0 +1,5 @@
+
+Elementi liste su:
+15	18	23	46	7	97	
+Elementi liste su:
+15	0	23	0	7	97	

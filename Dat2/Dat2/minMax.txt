@@ -1,0 +1,1 @@
+Najmanji broj u nizu je: 1954, dok je najveci broj u nizu jednak: 2003

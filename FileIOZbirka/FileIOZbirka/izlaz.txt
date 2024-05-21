@@ -1,0 +1,5 @@
+
+Elementi liste su:
+4	7	97	46	23	18	15	
+Elementi liste su:
+4	7	15	18	23	46	97	
